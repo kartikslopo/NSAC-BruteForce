@@ -1,2 +1,2 @@
-# NASA Space Apps Challenge
+# NASA International Space Apps Challenge
 # Team Name - BruteForce
