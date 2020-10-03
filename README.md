@@ -1,1 +1,2 @@
-# NSAC-BruteForce
+# NASA International Space Apps Challenge
+# Team Name - BruteForce
